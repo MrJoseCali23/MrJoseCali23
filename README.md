@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=josecalii&unique={true|1|on|yes})user=josecalii&unique={true|1|on|yes})" alt="Spotify recently played"  />
-</div>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
